@@ -1,6 +1,6 @@
 {
 	"name": "@daggle/car",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "ES6 module to unpack and archive car files for CommonJS projects.",
 	"main": "index.js",
 	"scripts": {
